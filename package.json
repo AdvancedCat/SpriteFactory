@@ -1,10 +1,25 @@
 {
   "name": "spritefactory",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
+  "title": "SpriteFactory",
+  "description": "SpriteFactory is the website to help you to generate sprite.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/AdvancedCat/SpriteFactory",
+  "author": {
+    "name": "AdvancedCat",
+    "email": "wshx1938@163.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AdvancedCat/SpriteFactory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AdvancedCat/SpriteFactory/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
   "dependencies": {
     "body-parser": "~1.18.2",
     "cookie-parser": "~1.4.3",
